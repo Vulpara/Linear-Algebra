@@ -1,12 +1,12 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: d85fcd09-bb69-4315-8b00-3f8d3dc8bef4
+  id: 7831cb38-7548-43ff-9bb1-b3f545473848
   # title:
   # description:
   # keywords: []
   # authors: []
-  # github:
+  github: https://github.com/Vulpara/Linear-Algebra
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
